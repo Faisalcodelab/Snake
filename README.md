@@ -1,4 +1,4 @@
-Snake Game
+🐍 Snake Game
 A simple yet engaging Snake game built using HTML, CSS, and JavaScript. This project is an interactive and fun way to practice JavaScript and game development concepts.
 
 🚀 Features
